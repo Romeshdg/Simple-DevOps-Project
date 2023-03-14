@@ -182,16 +182,28 @@
 
 ## Step 5: Integrate Tomcat with Jenkins
 
-•Install “Deploy to container”
-•Configure tomcat server with Credentials
+# Install “Deploy to container”
+![Screenshot 2023-03-13 010813](https://user-images.githubusercontent.com/113555417/224966871-9e106bb5-d373-48c1-ba78-899fd70b6e38.jpg)
+![Screenshot 2023-03-13 012906](https://user-images.githubusercontent.com/113555417/224966886-ef4a8cbd-b5b8-41a1-a1b9-5dd35be679b5.jpg)
+![Screenshot 2023-03-13 012921](https://user-images.githubusercontent.com/113555417/224966912-8c0d0888-c16c-4a5c-bb62-47153915c5c7.jpg)
 
-Next steps in other File>>> "name-Step 5" 
+# Configure tomcat server with Credentials
+![Screenshot 2023-03-13 020549](https://user-images.githubusercontent.com/113555417/224966938-5e947462-429f-4f93-8e61-cb875e3592f5.jpg)
+![Screenshot 2023-03-13 020636](https://user-images.githubusercontent.com/113555417/224967094-5afec37c-4ae8-4075-acb1-960280153328.jpg)
+![Screenshot 2023-03-13 020851](https://user-images.githubusercontent.com/113555417/224967109-e596e2bc-909b-489a-92f1-5e7545ea847b.jpg)
+![Screenshot 2023-03-13 020913](https://user-images.githubusercontent.com/113555417/224967127-3c2dc270-537f-4184-8e96-1cfb083cd499.jpg)
+![Screenshot 2023-03-13 020927](https://user-images.githubusercontent.com/113555417/224967141-3b4ccbed-fcd7-4e53-9452-4cadef1c3069.jpg)
+![Screenshot 2023-03-13 021020](https://user-images.githubusercontent.com/113555417/224967158-97b64ac7-8b90-49e6-9a1c-effd2e89efbd.jpg)
+![Screenshot 2023-03-13 021326](https://user-images.githubusercontent.com/113555417/224967176-12805627-a597-4691-94b7-24e9859d8b02.jpg)
+![Screenshot 2023-03-13 021344](https://user-images.githubusercontent.com/113555417/224967187-028976e2-fbec-4396-b5d9-391353dafe9a.jpg)
 
 
+## Final 
+
+![Screenshot 2023-03-13 021502](https://user-images.githubusercontent.com/113555417/224967354-f5b948f8-b393-4d11-a3f0-c2169146fa32.jpg)
 
 
-
-
+## Thankyou!
 
 
 
