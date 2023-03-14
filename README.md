@@ -185,10 +185,8 @@
 •Install “Deploy to container”
 •Configure tomcat server with Credentials
 
-# Images 
+Next steps in other File>>> "name-Step 5" 
 
-# 01. 
-# Install “Deploy to container”
 
 
 
